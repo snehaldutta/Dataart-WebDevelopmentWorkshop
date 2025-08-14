@@ -1,0 +1,58 @@
+[
+    {
+        "year": 1963,
+        "title": "First Sounding Rocket Launch",
+        "description": "First Nike-Apache rocket launched from TERLS.",
+        "imageURL": "images/terls.jpg",
+        "category": "Launch"
+    },
+    {
+        "year": 1975,
+        "title": "Aryabhata Satellite",
+        "description": "India's first satellite launched.",
+        "imageURL": "images/aryabhata.jpg",
+        "category": "Satellite"
+    },
+    {
+        "year": 1980,
+        "title": "SLV-3",
+        "description": "First indigenous satellite launch vehicle.",
+        "imageURL": "images/slv3.jpg",
+        "category": "Launch Vehicle"
+    },
+    {
+        "year": 1994,
+        "title": "PSLV First Flight",
+        "description": "PSLV successfully launched IRS-P2.",
+        "imageURL": "images/pslv.jpg",
+        "category": "Launch Vehicle"
+    },
+    {
+        "year": 2008,
+        "title": "Chandrayaan-1",
+        "description": "India's first mission to the Moon.",
+        "imageURL": "images/chandrayaan1.jpg",
+        "category": "Moon Mission"
+    },
+    {
+        "year": 2013,
+        "title": "Mangalyaan",
+        "description": "India's Mars Orbiter Mission launched.",
+        "imageURL": "images/mangalyaan.jpg",
+        "category": "Mars Mission"
+    },
+    {
+        "year": 2017,
+        "title": "PSLV-C37",
+        "description": "Record launch of 104 satellites.",
+        "imageURL": "images/pslv-c37.jpg",
+        "category": "Launch"
+    },
+    {
+        "year": 2019,
+        "title": "Chandrayaan-2",
+        "description": "Second Moon mission with orbiter, lander, rover.",
+        "imageURL": "images/chandrayaan2.jpg",
+        "category": "Moon Mission"
+    }
+]
