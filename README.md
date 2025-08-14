@@ -1,6 +1,6 @@
 # Dataart-WebDevelopmentWorkshop
 Assignments from the workshop
 
-Assigmnent - 1
+Assigmnent - 2
 
-HTML skeleton for Timeline website : 07.08.2025
+CSS Customization for Timeline website : 10.08.2025
